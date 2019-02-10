@@ -1,2 +1,2 @@
 # projecttest
-This is a Git example file.
+This is another test.
